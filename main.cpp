@@ -1,8 +1,6 @@
 #include <iostream>
 #include "main.h"
 
-using namespace std;
-
 int main() {
 
     for(;;) {
@@ -27,6 +25,5 @@ int main() {
     if (stop)
         break;
     }
-
     return 0;
 }
